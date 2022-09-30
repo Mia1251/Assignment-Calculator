@@ -45,7 +45,7 @@
                                 result = Division(num1, num2);
                                     break;
                             }
-                        case 9:
+                        case 9:  // Funkar inte!!!
                             keepRunning = false;
                             Console.WriteLine("Thank you for using the calculator! Welcome back anytime!");
                             break;
